@@ -1,0 +1,12 @@
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe.config
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\bin\Debug\QrCodeGenerator.exe
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\bin\Debug\QrCodeGenerator.pdb
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\bin\Debug\QRCoder.dll
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\bin\Debug\System.Drawing.Common.xml
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\obj\Debug\QrCodeGenerator.csproj.CopyComplete
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\obj\Debug\QrCodeGenerator.exe
+C:\Users\Admin\Documents\Proiect Important\QrCodeGenerator\obj\Debug\QrCodeGenerator.pdb
